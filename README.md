@@ -32,7 +32,7 @@ Sou apaixonado por desenvolvimento de software, especialmente na construção de
 ## 📫 Como me encontrar
 
 - GitHub: [github.com/wandermadeira](https://github.com/wandermadeira)
-- Email: wandermsilva@email.com
+- Email: wandermadeirasilva2@gmail.com
 - LinkedIn: [linkedin.com/in/wandermadeira](https://linkedin.com/in/wandermadeira)
 
 ---
